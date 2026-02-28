@@ -2,7 +2,9 @@
 A backdoor for old Roblox clients
 # FAQ
 ## Will you make a UI?
-No, we are not gonna make a UI for clibackdoor.
+No, we are not gonna make a UI for clibackdoor. You can do that yourself.
+## What versions work?
+Clibackdoor works all the way from 10/1/2013 to the latest Roblox versions!
 ## Does this work in FE?
 Yes, as long as the game is infected!
 ## How does it work?
